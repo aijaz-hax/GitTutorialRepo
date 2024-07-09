@@ -2,3 +2,13 @@ GIT - Software (!important)
 
 
 GITHUB - Service
+
+
+git status
+git add .
+git commit -m "Any Message"
+git push
+git pull
+git merge origin/<Branch Name>
+git checkout -b <Branch Name> // To create Branch
+git checkout <Branch Name> // To switch between branches
